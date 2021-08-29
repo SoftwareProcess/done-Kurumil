@@ -1,2 +1,2 @@
-def collapse(value):
+def  collapse(value):  
     ...
